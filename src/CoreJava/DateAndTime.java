@@ -9,5 +9,6 @@ public class DateAndTime {
         LocalDateTime now = LocalDateTime.now();
         System.out.println(df.format(now));
         System.out.println(df.format(now));
+        System.out.println(df.format(now));
     }
 }
