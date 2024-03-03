@@ -1,12 +1,13 @@
-import java.util.HashSet;
+package CoreJava;
 
-public class HasSetExamples {
+import java.util.ArrayList;
+
+public class arrayList {
     public static void main(String[] args) {
-        HashSet<String> cars = new HashSet<String>();
+        ArrayList<String> cars = new ArrayList<String>();
         cars.add("Volvo");
         cars.add("BMW");
         cars.add("Ford");
-        cars.add("BMW");
         cars.add("Mazda");
         System.out.println(cars);
     }

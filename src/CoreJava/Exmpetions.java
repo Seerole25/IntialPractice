@@ -1,3 +1,5 @@
+package CoreJava;
+
 public class Exmpetions {
     public static void main(String[] args) {
         try {
@@ -5,7 +7,6 @@ public class Exmpetions {
             System.out.println(myNumbers[10]);
         } catch (Exception e) {
             System.out.println("Something went wrong.");
-            vfbfdbg
         }
     }
 }

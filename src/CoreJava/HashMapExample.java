@@ -1,3 +1,4 @@
+package CoreJava;
 
 import java.util.HashMap;
 
