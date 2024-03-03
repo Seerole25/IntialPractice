@@ -7,6 +7,7 @@ public class Exmpetions {
             System.out.println(myNumbers[10]);
         } catch (Exception e) {
             System.out.println("Something went wrong.");
+            System.out.println("");
         }
     }
 }
