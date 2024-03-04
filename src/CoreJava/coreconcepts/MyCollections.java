@@ -93,7 +93,6 @@ public class MyCollections
   		numbers.add(4);
   		numbers.add(21);
   		numbers.add(78);
-		// Variables // Functions [Method]
   		numbers.add(88);
   		numbers.add(488);
 		numbers.add(21);
