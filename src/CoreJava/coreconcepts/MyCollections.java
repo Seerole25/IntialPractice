@@ -94,6 +94,10 @@ public class MyCollections
   		numbers.add(78);
   		numbers.add(88);
   		numbers.add(488);
+		numbers.add(21);
+		numbers.add(78);
+		numbers.add(88);
+		numbers.add(488);
   		numbers.add(366);
   		numbers.add(188);
   		numbers.add(1);
