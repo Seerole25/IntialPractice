@@ -1,7 +1,7 @@
 package CoreJava.inheritanceByObject;
 
 public class TestReusableComponents
-
+// Variables // Functions [Method]
 // Creating the constructor 
 // Signature of constructor 
 

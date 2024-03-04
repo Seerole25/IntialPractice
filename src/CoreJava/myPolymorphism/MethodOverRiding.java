@@ -4,7 +4,7 @@ import org.junit.Test;
 
 //method over riding is also known as dynamic or late binding or run time polymorphism
 
-
+// Variables // Functions [Method]
 public class MethodOverRiding 
 {
 	@Test
@@ -18,7 +18,7 @@ public class MethodOverRiding
 	s1.method2();
 	}
 }
-
+// Variables // Functions [Method]
 class Parent
 {
 	public void method1()
@@ -30,7 +30,7 @@ class Parent
 		System.out.println("Method 2 form Parent (Super) class");
 	}
 }
-
+// Variables // Functions [Method]
 class child extends Parent
 {
 	public void method2()

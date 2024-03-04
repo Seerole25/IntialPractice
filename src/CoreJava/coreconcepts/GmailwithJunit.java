@@ -4,14 +4,14 @@ import org.junit.Test;
 
 public class GmailwithJunit 
 {//-------------------------------------------Test Suites---------------------------------------
-	
+	// Variables // Functions [Method]
 	@Test
 	public void smokeSuite() // Build Validation Test (BVT)
 	{
 		System.out.println("Test Suite : SMOKE ");
 		composeAndSendAnEmail();
 		replyAnEmail();
-		
+		// Variables // Functions [Method]
 	}
 	@Test
 	public void regression()

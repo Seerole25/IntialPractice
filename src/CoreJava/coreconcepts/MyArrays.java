@@ -7,6 +7,7 @@ import org.junit.Test;
 public class MyArrays 
 {
 
+
 	    //An array is a container object that holds a fixed number of values of a single type.After creation of an array it's length is fixed.
 		// Arrays are of two types --- They are 1.Fixed array  2.Dynamic Array
 		

@@ -8,7 +8,7 @@ import org.junit.Test;
 //Multiple ----If once child class is trying to inheritate two parent classes at a time if possible  then it is said to be****
 //***multiple Inheritance and this concept is not possible in Java.
 // One more inheritance is existed i.e heirarchial where 2 or more child classes (sub classes) will inheritate the properties of parent class(super class)
-
+// Variables // Functions [Method]
 // Calling one class from another class is Multilevel Inheritance
 //                        A          extends    B      extends C  i.e TestReusableComponents
 //              Child class(sub class)   child class(sub class)

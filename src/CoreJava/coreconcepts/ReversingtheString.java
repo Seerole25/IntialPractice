@@ -10,7 +10,7 @@ public class ReversingtheString
 	{
 	String str= "Siva Nageswara Rao", nstr="";
     char ch;
-    
+        // Variables // Functions [Method]
   System.out.println("Original word: "+str);
   
   for (int i=0; i<str.length(); i++)

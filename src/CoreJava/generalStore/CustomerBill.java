@@ -42,7 +42,7 @@ public class CustomerBill
 		System.out.println("Customer Bill is :"+Bill);
 		sCal.Sinevalue();
 	}
-	
+	// Variables // Functions [Method]
 	// Overriding means Subclass (Child Class) can rewrite the function which is there in  Super class(Parent Class)
 	@Test
 	public void printCustomerBillonlyUsingScientificCalculator()

@@ -14,7 +14,7 @@ public class MiniCalculator implements ArithematicOperation
 		int sum=a+b;
 		return sum;
 	}
-
+	// Variables // Functions [Method]
 	@Override
 	public int subraction(int a, int b) {
 		// TODO Auto-generated method stub

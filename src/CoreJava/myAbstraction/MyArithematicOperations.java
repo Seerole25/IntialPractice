@@ -1,7 +1,7 @@
 package CoreJava.myAbstraction;
 
 import org.junit.Test;
-
+// Variables // Functions [Method]
 public abstract class MyArithematicOperations
 
 // Here in MyMiniCalculator we have written subtraction function and In MyCommercialCalc we have***

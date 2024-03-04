@@ -3,7 +3,7 @@ package CoreJava.heairarchialInheritance;
 import org.junit.Test;
 
 //Heairarchial where 2 or more child classes (sub classes) will inheritate the properties of same parent class(super class)
-
+// Variables // Functions [Method]
 //Test Case --2 is Child Class(sub class)
 public class TestCase2 extends TestReusableComponents
 {

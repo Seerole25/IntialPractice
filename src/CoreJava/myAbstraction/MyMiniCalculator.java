@@ -9,3 +9,4 @@ public class MyMiniCalculator extends MyArithematicOperations
 	}
 
 }
+// Variables // Functions [Method]
