@@ -1,11 +1,12 @@
 package CoreJava.generalStore;
 
+import CoreJava.myInterface.ArithematicOperation;
+import CoreJava.myInterface.CommercialCalculator;
+import CoreJava.myInterface.MiniCalculator;
+import CoreJava.myInterface.ScientificCalculator;
 import org.junit.Test;
 
-import myInterface.ArithematicOperation;
-import myInterface.CommercialCalculator;
-import myInterface.MiniCalculator;
-import myInterface.ScientificCalculator;
+
 
 public class CustomerBill 
 {
