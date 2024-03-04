@@ -1,4 +1,5 @@
 package CoreJava.heairarchialInheritance;
+// Variables // Functions [Method]
                       // Parent class (Super class)
 public class TestReusableComponents 
 {

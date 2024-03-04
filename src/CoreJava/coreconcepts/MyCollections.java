@@ -89,9 +89,11 @@ public class MyCollections
   		System.out.println("Length of the collection : "+len);
   		numbers.add(55);
   		numbers.add(23);
+  		numbers.add(23);
   		numbers.add(4);
   		numbers.add(21);
   		numbers.add(78);
+		// Variables // Functions [Method]
   		numbers.add(88);
   		numbers.add(488);
 		numbers.add(21);

@@ -3,7 +3,7 @@ package CoreJava.myPolymorphism;
 import org.junit.Test;
 
 // method over loading is also known as static or early binding or compile time polymorphism
-
+// Variables // Functions [Method]
 public class MethodOverLoading
 {
 	@Test
@@ -22,7 +22,8 @@ public class MethodOverLoading
 		        s.method1(10, "Siva");
 	}
 }
-
+// Variables // Functions [Method]
+// Variables // Functions [Method]
 class superclass // Here Super Class is also known as Parent Class
 {
 	void method1(int num) 
@@ -35,7 +36,7 @@ class superclass // Here Super Class is also known as Parent Class
 		System.out.println("Method1 in Super Class is :" + num + name);
 	}
 }
-
+// Variables // Functions [Method]
 class subclass extends superclass // Here Sub Class is also known as Child Class
 // In Subclass we are printing only input with three arguments but while using extends keyword in between subclass & superclass***
 //*** the method written in superclass will also be extends to subclass

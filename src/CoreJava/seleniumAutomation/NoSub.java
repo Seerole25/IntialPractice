@@ -2,7 +2,7 @@ package CoreJava.seleniumAutomation;
 
 import org.junit.Test;
 import org.openqa.selenium.chrome.ChromeDriver;
-
+// Variables // Functions [Method]
 public class NoSub 
 { 
 	@Test

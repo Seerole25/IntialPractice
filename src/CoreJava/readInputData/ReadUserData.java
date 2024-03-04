@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.util.Properties;
 
 import org.junit.Test;
-
+// Variables // Functions [Method]
 // 3rd jan class video
 public class ReadUserData 
 {

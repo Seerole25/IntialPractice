@@ -6,3 +6,5 @@ public interface TrigonametricOperations
 	public void Cosinevalue();
 	public void Tanvalue();
 }
+// Variables // Functions [Method]
+// Variables // Functions [Method]

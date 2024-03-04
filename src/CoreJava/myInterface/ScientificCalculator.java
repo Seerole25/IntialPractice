@@ -4,7 +4,7 @@ package CoreJava.myInterface;
 public class ScientificCalculator implements ArithematicOperation,TrigonametricOperations
 
 // Multiple Inheritance = if a class able to inherit to more than one Super class (parent class) at a time is called Multiple Inheritance
-
+// Variables // Functions [Method]
 {
 	public void displayLogo()
 	{

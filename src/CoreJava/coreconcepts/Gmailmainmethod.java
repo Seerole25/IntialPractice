@@ -14,7 +14,7 @@ public class Gmailmainmethod {
 		   forwardAnEmail();
 		   deleteAnEmail(); 
 		}
-	   
+	// Variables // Functions [Method]
 	   public static void composeAndSendAnEmail()
 		{
 		   System.out.println("TestCase composeAndSendAnEmail"); 

@@ -1,7 +1,7 @@
 package CoreJava.inheritanceByObject;
 
 import org.junit.Test;
-
+// Variables // Functions [Method]
 public class TestCases // extends TestReusableComponents
 
 // Signature of the Object using Constructor

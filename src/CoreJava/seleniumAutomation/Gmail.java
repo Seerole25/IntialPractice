@@ -11,7 +11,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 import junit.framework.Assert;
-
+// Variables // Functions [Method]
 // 4th Jan class video 
 public class Gmail 
 {

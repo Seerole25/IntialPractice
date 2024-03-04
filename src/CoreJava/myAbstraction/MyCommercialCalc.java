@@ -7,7 +7,7 @@ public class MyCommercialCalc
 		//MyArithematicOperations am= new MyArithematicOperations();
 		int prod =a*b;
 		return prod;
-		
+		// Variables // Functions [Method]
 	}
 
 }

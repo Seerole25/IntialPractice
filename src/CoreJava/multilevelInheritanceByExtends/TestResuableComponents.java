@@ -1,7 +1,7 @@
 package CoreJava.multilevelInheritanceByExtends;
 
 // Access modifiers differences ,They are private , Public , default,Protected
- 
+// Variables // Functions [Method]
                        // Parent Class (Super class)
 public class TestResuableComponents 
 {

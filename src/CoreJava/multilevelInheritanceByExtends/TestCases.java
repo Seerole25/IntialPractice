@@ -1,7 +1,7 @@
 package CoreJava.multilevelInheritanceByExtends;
 
 import org.junit.Test;
-
+// Variables // Functions [Method]
    //   
   //             Child Class (sub class)               Parent class(super class)
 public class TestCases  extends TestResuableComponents

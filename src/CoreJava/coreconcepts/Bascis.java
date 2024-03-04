@@ -9,6 +9,7 @@ package CoreJava.coreconcepts;
 public class Bascis 
 {
 		// Variables // Functions [Method]
+		// Variables // Functions [Method]
 		  // Signature of the variable : Modifier(optional) DataType Name  ;- while variable already declared
 	     // Modifier(optional) DataType Name = Value ;-Assigned
 		      public static    String collegename="VVIT";

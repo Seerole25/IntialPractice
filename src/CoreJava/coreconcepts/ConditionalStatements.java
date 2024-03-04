@@ -1,7 +1,7 @@
 package CoreJava.coreconcepts;
 
 import org.junit.Test;
-
+// Variables // Functions [Method]
 public class ConditionalStatements 
 {
 int a = 5;

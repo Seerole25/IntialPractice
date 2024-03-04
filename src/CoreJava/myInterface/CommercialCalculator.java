@@ -15,7 +15,7 @@ public class CommercialCalculator implements ArithematicOperation
 		System.out.println("Arithematic Operation form Commercial Calculator");
 		return a+b;
 	}
-
+	// Variables // Functions [Method]
 	@Override
 	public int subraction(int a, int b) 
 	{
